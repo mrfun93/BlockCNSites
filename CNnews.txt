@@ -5,6 +5,7 @@
 110.com.^
 110.com.hk^
 aisixiang.com^
+afndaily.com^
 am730.com^
 anhuinews.com^
 apdnews.com^
@@ -20,6 +21,8 @@ cankaoxiaoxi.com^
 changjiangtimes.com^
 china.com^
 chinacqsb.com^
+chinaxiaokang.com^
+chinadailyhk.com^
 chinatimes.com^
 chkp.org^
 cnautonews.com^
@@ -27,6 +30,7 @@ cnjiwang.com^
 cnjxol.com^
 cnwest.com^
 cqcb.com^
+creaders.net^
 crntt.com^
 cyol.net^
 dahuawang.com^
@@ -75,6 +79,7 @@ lnwx.org^
 lyg1.com^
 master-insight.com^
 macaodaily.com^
+malaysiakini.com^
 mgyxw.com^
 my399.com^
 mytvsuper.com^
@@ -111,11 +116,12 @@ takungpao.com^
 takungpao.com.hk^
 tibet3.com^
 timedg.com^
+thestandard.com.hk^
 thinkhk.com^
 tjbhnews.com^
 tvb.com^
 ulifestyle.com.hk^
-ulifestyle.com^土
+ulifestyle.com^
 uschinapress.com^
 uyghurpress.com^
 uzbzw.com^
