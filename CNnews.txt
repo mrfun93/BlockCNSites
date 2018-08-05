@@ -44,6 +44,7 @@ hkcd.com^
 hkwb.net^
 hljtv.com^
 hntqb.com^
+hkatv.com^
 hsdcw.com^
 hxnews.com^
 hynews.net^
@@ -61,6 +62,7 @@ lyg1.com^
 macaodaily.com^
 mgyxw.com^
 my399.com^
+mytvsuper.com^
 newsyc.com^
 nfcmag.com^
 nihaotw.com^
@@ -88,6 +90,7 @@ takungpao.com.hk^
 tibet3.com^
 timedg.com^
 tjbhnews.com^
+tvb.com^
 uschinapress.com^
 vtibet.com^
 wenweipo.com^
