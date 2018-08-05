@@ -29,6 +29,7 @@ cn.*
 265.com^
 265g.com^
 3533.com^
+360.cn^
 360doc.com^
 39.net^
 39yst.com^
@@ -69,8 +70,11 @@ aibang.com^
 aili.com^
 aipai.com^
 ali213.net^
+aliyun.com^
 alimama.com^
 alipay.com^
+alltobid.com 
+amap.com^
 anjuke.com^
 anqu.com^
 anzhi.com^
@@ -78,6 +82,7 @@ app111.com^
 appchina.com^
 artron.net^
 askci.com^
+Bab.la^
 babytree.com^
 baidu.com^
 baihe.com^
@@ -99,11 +104,12 @@ cctv.com^
 changyou.com^
 che168.com^
 cheshi.com^
+ci123.com^ 
+chazidian.com^
 chinaacc.com^
 chinabyte.com^
 chinacourt.org^
 chinahr.com^
-chinanews.com^
 chinanews.com^
 chinapay.com^
 chinaso.com^
@@ -136,7 +142,6 @@ donews.com^
 dospy.com^
 douban.com^
 douban.com^
-douban.com^
 downxia.com^
 doyouhike.net^
 duitang.com^
@@ -159,9 +164,11 @@ gucheng.com^
 guokr.com^
 haier.net^
 hainan.net^
+hao123.com
 haodf.com^
 hc360.com^
 hhxxee.com^
+hjenglish.com^
 house365.com^
 hualongxiang.com^
 huanqiu.com^
@@ -171,6 +178,7 @@ huhudm.com^
 huitu.com^
 huoche.net^
 hupu.com^
+ichacha.net^
 iciba.com^
 ifeng.com^
 imp3.net^
@@ -185,6 +193,7 @@ jd.com^
 jdbbs.com^
 jfdaily.com^
 jiaodong.net^
+jinti.com^
 jjwxc.net^
 jobui.com^
 kaixin001.com^
@@ -249,14 +258,18 @@ qunar.com^
 qyer.com^
 renren.com^
 replays.net^
+rednet.com
+runoob.com 
 sdo.com^
 sgamer.com^
+sh.qihoo.com^
 shangdu.com^
+shgjj.com^
 shijue.me^
 sina.com^
 skycn.com^
 so.com^
-so.com^
+soso.com^
 sogou.com^
 sohu.com^
 sohu.com^
@@ -321,6 +334,7 @@ yxdown.com^
 yxlady.com^
 zbj.com^
 zdface.com^
+zdic.net^
 zhaopin.com^
 zhe800.com^
 zhenai.com^
@@ -330,3 +344,4 @@ zongheng.com^
 zoosnet.net^
 ztgame.com^
 zynews.com^
+Zhanqi.tv^
