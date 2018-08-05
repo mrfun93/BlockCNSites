@@ -17,6 +17,7 @@ beelink.com^
 boxun.com^
 bluehn.com^
 bundpic.com^
+btime.com^
 cankaoxiaoxi.com^
 changjiangtimes.com^
 china.com^
@@ -72,6 +73,7 @@ jsbc.com^
 jstv.com^
 kankanews.com^
 kaixian.tv^
+kaopuyiliao.com^
 ldqxn.com^
 litenews.hk^
 linzhinews.com^
@@ -90,6 +92,7 @@ nnnews.net^
 nxnews.net^
 orangenews.hk^
 ptxw.com^
+peacehall.com^
 qdaily.com^
 qhnews.com^
 qianhuaweb.com^
@@ -116,6 +119,7 @@ takungpao.com^
 takungpao.com.hk^
 tibet3.com^
 timedg.com^
+tujiyingxiong.com^
 thestandard.com.hk^
 thinkhk.com^
 tjbhnews.com^
