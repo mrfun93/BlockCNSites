@@ -44,6 +44,7 @@ cn.*
 51edu.com^
 51job.com^
 51test.net^
+52mac.com^
 52z.com^
 53kf.com^
 55bbs.com^
@@ -55,11 +56,14 @@ cn.*
 66wz.com^
 68design.net^
 766.com^
+7down.com^
 7k7k.com^
 8080.net^
 8264.com^
 91.com^
+9553.com^
 99bill.com^
+9ht.com^
 9ku.com^
 9you.com^
 abang.com^
@@ -134,6 +138,7 @@ ctrip.com^
 cztv.com^
 dangdang.com^
 dayoo.com^
+douyin.com^
 dedecms.com^
 dianping.com^
 dm5.com^
@@ -143,6 +148,7 @@ dospy.com^
 douban.com^
 douban.com^
 downxia.com^
+downcc.com^
 doyouhike.net^
 duitang.com^
 duote.com^
@@ -156,6 +162,7 @@ elong.com^
 fengniao.com^
 fengyunzhibo.com^
 flyertea.com^
+fx110.com^
 fx678.com^
 gamersky.com^
 ganji.com^
@@ -171,7 +178,6 @@ hhxxee.com^
 hjenglish.com^
 house365.com^
 hualongxiang.com^
-huanqiu.com^
 huanqiu.com^
 huaxia.com^
 huhudm.com^
@@ -193,6 +199,7 @@ jd.com^
 jdbbs.com^
 jfdaily.com^
 jiaodong.net^
+jianshu.com^
 jinti.com^
 jjwxc.net^
 jobui.com^
@@ -216,6 +223,7 @@ ly.com^
 made-in-china.com^
 mapbar.com^
 mbalib.com^
+meipai.com^
 meishichina.com^
 meitu.com^
 meituan.com^
@@ -238,6 +246,8 @@ onlinedown.net^
 onlylady.com^
 ooopic.com^
 paipai.com^
+pinduoduo.com^
+pc6.com^
 pchome.net^
 pcpop.com^
 pinshan.com^
@@ -258,8 +268,9 @@ qunar.com^
 qyer.com^
 renren.com^
 replays.net^
-rednet.com
-runoob.com 
+rednet.com^
+ruan8.com^
+runoob.com^
 sdo.com^
 sgamer.com^
 sh.qihoo.com^
@@ -269,6 +280,7 @@ shijue.me^
 sina.com^
 skycn.com^
 so.com^
+soft.anruan.com^
 soso.com^
 sogou.com^
 sohu.com^
@@ -304,6 +316,7 @@ wandoujia.com^
 wanmei.com^
 weibo.com^
 wechat.com^
+windowszj.com^
 xdowns.com^
 xiami.com^
 xici.net^
@@ -311,6 +324,7 @@ xilu.com^
 xinhuanet.com^
 xinnet.com^
 xitek.com^
+xitongzhijia.net^
 xueqiu.com^
 xunlei.com^
 xxsy.net^
