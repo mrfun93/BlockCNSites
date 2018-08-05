@@ -1,5 +1,6 @@
 ! Title: Block CN popluar sites (300)
-!Last Update:05 AUG 2018
+! Last Update:05 AUG 2018
+! Repository: https://github.com/mrfun93/BlockCNSites
 ! Source: https://raw.githubusercontent.com/mrfun93/BlockCNSites/master/PopularCNSites300.txt
 .cn^
 cn.*
