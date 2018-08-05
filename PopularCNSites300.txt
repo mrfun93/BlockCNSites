@@ -290,6 +290,7 @@ verycd.com^
 wandoujia.com^
 wanmei.com^
 weibo.com^
+wechat.com^
 xdowns.com^
 xiami.com^
 xici.net^
