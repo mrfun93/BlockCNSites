@@ -22,11 +22,14 @@ cankaoxiaoxi.com^
 changjiangtimes.com^
 china.com^
 chinacqsb.com^
+chinanews.com 
 chinaxiaokang.com^
 chinadailyhk.com^
+chineseinla.com^
 chinatimes.com^
 chkp.org^
 cnautonews.com^
+cnbeta.com^
 cnjiwang.com^
 cnjxol.com^
 cnwest.com^
@@ -39,6 +42,8 @@ discoverhongkong.com^
 dlxww.com^
 dotdotnews.com^
 *.dwnews.com^
+dzwww.com^
+eastmoney.com^
 fawan.com^
 fjsen.com^
 fjtv.net^
@@ -59,6 +64,7 @@ hkej.com^
 hkwb.net^
 hljtv.com^
 hntqb.com^
+huanqiu.com 
 hkatv.com^
 hkcna.hk^
 hkgpao.com^
@@ -68,12 +74,14 @@ hynews.net^
 icswb.com^
 ifengweekly.com^
 ijjnews.com^
+infzm.com 
 iyaxin.com^
 jsbc.com^
 jstv.com^
 kankanews.com^
 kaixian.tv^
 kaopuyiliao.com^
+kdnet.net
 ldqxn.com^
 litenews.hk^
 linzhinews.com^
@@ -90,9 +98,11 @@ nfcmag.com^
 nihaotw.com^
 nnnews.net^
 nxnews.net^
+oeeee.com^
 orangenews.hk^
 ptxw.com^
 peacehall.com^
+people.com.cn^
 qdaily.com^
 qhnews.com^
 qianhuaweb.com^
@@ -136,7 +146,8 @@ wxrb.com^
 xhby.net^
 xiancn.com^
 xinhua.org^
-xinhua.org^
+xinhuanet.com^
+*.xinhuanet.com^
 xlhtnews.com^
 xnwbw.com^
 xxsb.com^
@@ -146,5 +157,6 @@ ylrb.com^
 yndaily.com^
 yzzk.com^
 zaobao.com^
+Zaobao.com.sg^
 zijing.org^
 zjkonline.com^
