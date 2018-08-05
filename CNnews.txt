@@ -4,20 +4,24 @@
 ! Source: https://raw.githubusercontent.com/mrfun93/BlockCNSites/master/CNnews.txt
 110.com.^
 110.com.hk^
+21cbhw.com^
 aisixiang.com^
 afndaily.com^
 am730.com^
 anhuinews.com^
 apdnews.com^
 aqzyzx.com^
+backchina.com^
 banyuetan.org^
 baojinews.com^
 bastillepost.com^
 beelink.com^
+botanwang.com^
 boxun.com^
 bluehn.com^
 bundpic.com^
 btime.com^
+caogen.com^
 cankaoxiaoxi.com^
 changjiangtimes.com^
 china.com^
@@ -38,7 +42,10 @@ creaders.net^
 crntt.com^
 cyol.net^
 dahuawang.com^
+dangjiancn.com^
+dab.org.hk^
 discoverhongkong.com^
+djasss.com^
 dlxww.com^
 dotdotnews.com^
 *.dwnews.com^
@@ -58,13 +65,15 @@ hebtv.com^
 hefei.cc^
 hf365.com^
 hilizi.com^
+hk01.com^
 hkcd.com^
 hk.on.cc^
 hkej.com^
 hkwb.net^
 hljtv.com^
 hntqb.com^
-huanqiu.com 
+huanqiu.com^
+huashangnews.com^
 hkatv.com^
 hkcna.hk^
 hkgpao.com^
@@ -76,6 +85,7 @@ ifengweekly.com^
 ijjnews.com^
 infzm.com 
 iyaxin.com^
+jdonline.com.hk^
 jsbc.com^
 jstv.com^
 kankanews.com^
@@ -86,6 +96,7 @@ ldqxn.com^
 litenews.hk^
 linzhinews.com^
 lnwx.org^
+locpg.hk^
 lyg1.com^
 master-insight.com^
 macaodaily.com^
@@ -110,6 +121,7 @@ qz828.com^
 qzwb.com^
 sanqin.com^
 sctv.com^
+scmp.com^
 sdchina.com^
 sina.com.hk^
 singpao.com.hk^
@@ -123,6 +135,7 @@ sxrb.com^
 sxrb.com^
 sxxw.net^
 sxycrb.com^
+szhgh.com^
 szb.dlxww.com^
 taihainet.com^
 takungpao.com^
