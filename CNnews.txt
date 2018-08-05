@@ -3,6 +3,7 @@
 ! Repository: https://github.com/mrfun93/BlockCNSites
 ! Source: https://raw.githubusercontent.com/mrfun93/BlockCNSites/master/CNnews.txt
 aisixiang.com^
+am730.com^
 anhuinews.com^
 apdnews.com^
 aqzyzx.com^
@@ -26,6 +27,8 @@ cyol.net^
 dahuawang.com^
 discoverhongkong.com^
 dlxww.com^
+dotdotnews.com^
+dwnews.com^
 fawan.com^
 fjsen.com^
 fjtv.net^
@@ -41,10 +44,14 @@ hefei.cc^
 hf365.com^
 hilizi.com^
 hkcd.com^
+hk.on.cc^
+hkej.com^
 hkwb.net^
 hljtv.com^
 hntqb.com^
 hkatv.com^
+hkcna.hk^
+hkgpao.com^
 hsdcw.com^
 hxnews.com^
 hynews.net^
@@ -55,7 +62,9 @@ iyaxin.com^
 jsbc.com^
 jstv.com^
 kankanews.com^
+kaixian.tv^
 ldqxn.com^
+litenews.hk^
 linzhinews.com^
 lnwx.org^
 lyg1.com^
@@ -68,6 +77,7 @@ nfcmag.com^
 nihaotw.com^
 nnnews.net^
 nxnews.net^
+orangenews.hk^
 ptxw.com^
 qdaily.com^
 qhnews.com^
@@ -77,8 +87,12 @@ qzwb.com^
 sanqin.com^
 sctv.com^
 sdchina.com^
+singpao.com.hk^
+singpao.com^
 snrtv.com^
+speakout.hk^
 stnn.cc^
+stheadline.com^
 subaonet.com^
 sxrb.com^
 sxrb.com^
@@ -86,12 +100,16 @@ sxxw.net^
 sxycrb.com^
 szb.dlxww.com^
 taihainet.com^
+takungpao.com^
 takungpao.com.hk^
 tibet3.com^
 timedg.com^
+thinkhk.com^
 tjbhnews.com^
 tvb.com^
 uschinapress.com^
+uyghurpress.com^
+uzbzw.com^
 vtibet.com^
 wenweipo.com^
 worldjournal.com^
@@ -106,3 +124,7 @@ yam.com^
 yidianzixun.com^
 ylrb.com^
 yndaily.com^
+yzzk.com^
+zaobao.com^
+zijing.org^
+zjkonline.com^
