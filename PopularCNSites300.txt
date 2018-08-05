@@ -77,8 +77,10 @@ ali213.net^
 aliyun.com^
 alimama.com^
 alipay.com^
+alipay.*
 alltobid.com 
 amap.com^
+antfin.com^
 anjuke.com^
 anqu.com^
 anzhi.com^
@@ -131,6 +133,7 @@ cnhubei.com^
 cnmo.com^
 cnool.net^
 cnstock.com^
+coolapk.com^
 coolxap.com^
 cqnews.net^
 csdn.net^
@@ -141,6 +144,7 @@ dayoo.com^
 douyin.com^
 dedecms.com^
 dianping.com^
+discuss.com.hk^
 dm5.com^
 docin.com^
 donews.com^
@@ -155,6 +159,7 @@ duote.com^
 duowan.com^
 dzwww.com^
 ea3w.com^
+etao.com^
 eastday.com^
 eastmoney.com^
 eeyy.com^
@@ -197,6 +202,7 @@ ithome.com^
 itpub.net^
 jd.com^
 jdbbs.com^
+joox.com^
 jfdaily.com^
 jiaodong.net^
 jianshu.com^
@@ -308,6 +314,8 @@ toutiao.com^
 tudou.com^
 tuniu.com^
 u17.com^
+uwants.com^
+uwants.com.hk^
 uuu9.com^
 vancl.com^
 vdolady.com^
@@ -321,6 +329,7 @@ xdowns.com^
 xiami.com^
 xici.net^
 xilu.com^
+xin.xin^
 xinhuanet.com^
 xinnet.com^
 xitek.com^
