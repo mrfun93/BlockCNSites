@@ -2,6 +2,8 @@
 ! Last Update:05 AUG 2018
 ! Repository: https://github.com/mrfun93/BlockCNSites
 ! Source: https://raw.githubusercontent.com/mrfun93/BlockCNSites/master/CNnews.txt
+110.com.^
+110.com.hk^
 aisixiang.com^
 am730.com^
 anhuinews.com^
@@ -9,7 +11,9 @@ apdnews.com^
 aqzyzx.com^
 banyuetan.org^
 baojinews.com^
+bastillepost.com^
 beelink.com^
+boxun.com^
 bluehn.com^
 bundpic.com^
 cankaoxiaoxi.com^
@@ -17,6 +21,7 @@ changjiangtimes.com^
 china.com^
 chinacqsb.com^
 chinatimes.com^
+chkp.org^
 cnautonews.com^
 cnjiwang.com^
 cnjxol.com^
@@ -28,7 +33,7 @@ dahuawang.com^
 discoverhongkong.com^
 dlxww.com^
 dotdotnews.com^
-dwnews.com^
+*.dwnews.com^
 fawan.com^
 fjsen.com^
 fjtv.net^
@@ -68,6 +73,7 @@ litenews.hk^
 linzhinews.com^
 lnwx.org^
 lyg1.com^
+master-insight.com^
 macaodaily.com^
 mgyxw.com^
 my399.com^
@@ -87,6 +93,7 @@ qzwb.com^
 sanqin.com^
 sctv.com^
 sdchina.com^
+sina.com.hk^
 singpao.com.hk^
 singpao.com^
 snrtv.com^
@@ -107,12 +114,15 @@ timedg.com^
 thinkhk.com^
 tjbhnews.com^
 tvb.com^
+ulifestyle.com.hk^
+ulifestyle.com^土
 uschinapress.com^
 uyghurpress.com^
 uzbzw.com^
 vtibet.com^
 wenweipo.com^
 worldjournal.com^
+wxrb.com^
 xhby.net^
 xiancn.com^
 xinhua.org^
