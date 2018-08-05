@@ -1,5 +1,6 @@
 ! Title: Block CN popluar sites (300)
-! Source: https://raw.githubusercontent.com/mrfun93/Blocking-Chinagov-releated-websites/master/BlockCNpopluarsites.txt
+!Last Update:05 AUG 2018
+! Source: https://raw.githubusercontent.com/mrfun93/BlockCNSites/master/PopularCNSites300.txt
 .cn^
 cn.*
 01hr.com^
