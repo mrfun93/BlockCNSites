@@ -44,6 +44,7 @@ cn.*
 51edu.com^
 51job.com^
 51test.net^
+52hrtt.com^
 52mac.com^
 52z.com^
 53kf.com^
@@ -116,6 +117,7 @@ chinaacc.com^
 chinabyte.com^
 chinacourt.org^
 chinahr.com^
+chinabaike.com^
 chinanews.com^
 chinapay.com^
 chinaso.com^
@@ -159,6 +161,7 @@ duote.com^
 duowan.com^
 dzwww.com^
 ea3w.com^
+ecph.cnki.net^
 etao.com^
 eastday.com^
 eastmoney.com^
@@ -182,9 +185,11 @@ hc360.com^
 hhxxee.com^
 hjenglish.com^
 house365.com^
+httpcn.com^
 hualongxiang.com^
 huanqiu.com^
 huaxia.com^
+hujiang.com^
 huhudm.com^
 huitu.com^
 huoche.net^
@@ -234,6 +239,7 @@ meishichina.com^
 meitu.com^
 meituan.com^
 mgtv.com^
+mi.com^
 miui.com^
 moko.cc^
 mop.com^
@@ -277,6 +283,7 @@ replays.net^
 rednet.com^
 ruan8.com^
 runoob.com^
+sina.com.tw^
 sdo.com^
 sgamer.com^
 sh.qihoo.com^
