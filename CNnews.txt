@@ -126,6 +126,7 @@ sdchina.com^
 sina.com.hk^
 singpao.com.hk^
 singpao.com^
+silentmajority.hk^
 snrtv.com^
 speakout.hk^
 stnn.cc^
